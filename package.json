@@ -1,0 +1,23 @@
+{
+  "name": "Study-Guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saynka/Study-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saynka/Study-Guide/issues"
+  },
+  "homepage": "https://github.com/Saynka/Study-Guide#readme",
+  "dependencies": {
+    "jest": "^27.0.1"
+  }
+}
